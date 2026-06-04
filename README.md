@@ -1,9 +1,9 @@
 # Hi, I'm Miracle 👋
 
-🎓 First Class graduate in Health Education — University of Lagos (2024)
-🩺 Health Educator | Occupational Safety Officer (In View)
-📊 Aspiring Data Analyst | Excel • Power BI • SQL
-🌍 Based in Lagos, Nigeria | Open to remote opportunities
+First-class graduate in Health Education — University of Lagos (2024)
+Health Educator | Occupational Safety Officer (In View)
+Aspiring Data Analyst | Excel • Power BI • SQL
+Based in Lagos, Nigeria | Open to remote opportunities
 
 ---
 
